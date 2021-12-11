@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FunInterface/FunInterface.iml" filepath="$PROJECT_DIR$/FunInterface/FunInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Grammar/Grammar.iml" filepath="$PROJECT_DIR$/Grammar/Grammar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MovieTest/MovieTest.iml" filepath="$PROJECT_DIR$/MovieTest/MovieTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyTomcat/MyTomcat.iml" filepath="$PROJECT_DIR$/MyTomcat/MyTomcat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NetWork/NetWork.iml" filepath="$PROJECT_DIR$/NetWork/NetWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stream/Stream.iml" filepath="$PROJECT_DIR$/Stream/Stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exersice.iml" filepath="$PROJECT_DIR$/exersice.iml" />
+    </modules>
+  </component>
+</project>
